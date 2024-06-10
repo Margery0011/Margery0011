@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Margery0011
 - 👀 I’m interested in interesting stuff.
-- 🌱 I’m currently working at @Stjude Center of SpatialOmics.
+- 🌱 I’m currently working at @Stjude [Center of SpatialOmics](https://www.stjude.org/research/why-st-jude/shared-resources/spatial-omics.html).
 - 💞️ I’m looking to collaborate on ANYTHING interesting.
 - 📫 How to reach me: yutian.liu@stjude.org
 - 🆕 Find me on Linkedln: [Yutian Liu](https://www.linkedin.com/in/margery-yutian-liu-a612b021a/)
